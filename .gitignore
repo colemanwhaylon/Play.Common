@@ -25,3 +25,13 @@ obj/Release/net5.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
 obj/Release/net5.0/Play.Common.pdb
 obj/Release/net5.0/ref/Play.Common.dll
 obj/Release/net5.0/refint/Play.Common.dll
+obj/Debug/net5.0/Play.Common.csproj.CoreCompileInputs.cache
+obj/Debug/net5.0/Play.Common.csproj.FileListAbsolute.txt
+obj/Debug/net5.0/Play.Common.dll
+obj/Debug/net5.0/Play.Common.pdb
+obj/Debug/net5.0/ref/Play.Common.dll
+obj/Debug/net5.0/refint/Play.Common.dll
+obj/Release/Play.Common.1.0.7.nuspec
+bin/Debug/net5.0/Play.Common.deps.json
+bin/Debug/net5.0/Play.Common.dll
+bin/Debug/net5.0/Play.Common.pdb
